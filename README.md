@@ -1,3 +1,3 @@
-# CB$`^2`$O
+# CB²O
 
-This repo provide code for paper "CB$`^2`$O: Consensus-Based Bi-level Optimization".
+This repo provide code for paper "CB²O: Consensus-Based Bi-level Optimization".
